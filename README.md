@@ -1,4 +1,4 @@
-you should know following rules before start
+you should know following rules before start \n
   1.download chatGPT exe. we're not gon using website
   1-1. turn on terminal to write down follwings 'pip install -', - is pyautogui, mouse, time, clipboard, datetime
   2.float kakaotalk vertically maximized
